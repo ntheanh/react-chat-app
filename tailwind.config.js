@@ -5,10 +5,12 @@ export default {
   theme: {
     colors: {
       blue_blur: "rgba(17,25,40,0.75)",
+      white: "#ffffff",
+      black: "rgba(17, 25, 40, 0.92)",
       transparent: "transparent",
       purple: "#3f3cbb",
       blue: "#025fd1",
-      red: "#ff0000",
+      red: "#ff0000"
     },
     extend: {}
   },
